@@ -65,7 +65,7 @@ function CreateLeaveTypeModal({ isOpen, onClose }) {
         <div className="p-6 space-y-8 text-left">
 
           <div>
-            <h3 className= "text-gray-900 font-bold items-end text-sm mb-1">Basic Details</h3>
+            <h3 className= "text-gray-900 font-bold items-end text-sm mb-1">Enter Leave Name</h3>
             <p className= "text-sm text-gray-700 mb-4">
               Provide the basic information for this leave type.
             </p>
