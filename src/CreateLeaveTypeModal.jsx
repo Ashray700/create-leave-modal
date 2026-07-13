@@ -14,7 +14,7 @@ const Toggle = ({ checked, onChange }) => (
       className={`
         inline-block h-5 w-5 rounded-full bg-gray-600
         transform transition-transform duration-200
-        ${checked ? "translate-x-6" : "translate-x-1"}
+        ${checked ? "translate-x-9" : "translate-x-1"}
       `}
     />
   </button>
